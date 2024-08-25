@@ -24,7 +24,7 @@ This project is an Applicant Tracking System (ATS) tracker built using the Googl
 1. Clone the repository:
 
     bash
-    git clone 
+    git clone https://github.com/Mor-ty/ATS-Tracker.git
     
 
 2. Navigate to the project directory:
