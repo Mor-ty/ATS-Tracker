@@ -1,0 +1,4 @@
+1.field to put the Job Description
+2.upload pdf
+3.pdf to image--> processing-->google gemini
+4.prompt template
